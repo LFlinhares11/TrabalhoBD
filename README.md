@@ -96,3 +96,26 @@ define('DB', 'login'); // Nome do seu banco de dados
 1.  Mova os arquivos do projeto para o diretório de projetos do seu servidor web (ex: `htdocs` ou `www`).
 2.  Acesse o sistema pelo navegador. A página inicial será o login:
     `http://localhost/nome_da_pasta/index.php`
+----
+
+### 5\. Imagens do Projeto
+
+## 1. Área de Autenticação e Navegação
+Acesso inicial ao sistema.
+![Tela de Login](images/login.png)
+
+---
+
+## 2. Gestão e Análise de Alunos
+O coração do sistema é o Dashboard.
+
+### Dashboard Analítico
+Exibe KPIs e gráficos essenciais para tomada de decisão.
+![Dashboard Principal](images/cards.png)
+
+-----
+![Dashboard Principal](images/graficos.png)
+
+### Listagem de Alunos (CRUD)
+Visualização completa dos registros, com opções de edição e exclusão.
+![Listagem de Alunos](images/lista.png)
